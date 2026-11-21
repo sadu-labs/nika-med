@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="1123" viewBox="0 0 794 1123" font-family="Arial, sans-serif" fill="#222">
+<rect width="794" height="1123" fill="#fff"/>
+<text x="60" y="64" font-size="14" fill="#3b5ea6" font-weight="bold">МЦ «Денсаулық», Караганда</text>
+<line x1="60" y1="78" x2="734" y2="78" stroke="#3b5ea6" stroke-width="2"/>
+<text x="397.0" y="124" font-size="22" font-weight="bold" text-anchor="middle">Протокол флюорографического исследования</text>
+<text x="60" y="170" font-size="15">Пациент: <tspan font-weight="bold">Сейтқалиев Ержан Мұратұлы</tspan></text>
+<text x="60" y="194" font-size="15">Дата рождения: 12.03.1991 · ИИН: 910312301427</text>
+<text x="60" y="218" font-size="15">Дата исследования: 27.07.2026</text>
+<rect x="60" y="250" width="300" height="340" fill="#1b1b1b" rx="6"/><ellipse cx="150" cy="420" rx="70" ry="130" fill="#4a4a4a"/><ellipse cx="270" cy="420" rx="70" ry="130" fill="#4a4a4a"/><rect x="200" y="290" width="20" height="270" fill="#8a8a8a"/><text x="210" y="610" font-size="12" fill="#777" text-anchor="middle">снимок № 4512, прямая проекция</text><text x="390" y="270" font-size="15">Цифровая флюорография ОГК.</text><text x="390" y="296" font-size="15">Доза: 0,05 мЗв.</text><text x="390" y="322" font-size="15"></text><text x="390" y="348" font-size="15">Лёгочные поля без очаговых</text><text x="390" y="374" font-size="15">и инфильтративных изменений.</text><text x="390" y="400" font-size="15">Корни структурны.</text><text x="390" y="426" font-size="15">Синусы свободны.</text><text x="390" y="452" font-size="15">Сердце и аорта без особенностей.</text><text x="390" y="478" font-size="15"></text><text x="390" y="504" font-size="15">Заключение: патологии органов</text><text x="390" y="530" font-size="15">грудной клетки не выявлено.</text>
+<text x="60" y="1033" font-size="15">Врач: Ибрагимов Т. С.</text><line x1="420" y1="1029" x2="600" y2="1029" stroke="#999"/><text x="610" y="1033" font-size="13" fill="#777">подпись</text>
+<text x="397.0" y="1087" font-size="12" fill="#999" text-anchor="middle">Образец документа для прототипа</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="1123" viewBox="0 0 794 1123" font-family="Arial, sans-serif" fill="#222">
+<rect width="794" height="1123" fill="#fff"/>
+<text x="60" y="64" font-size="14" fill="#3b5ea6" font-weight="bold">МЦ «Медикер», Караганда</text>
+<line x1="60" y1="78" x2="734" y2="78" stroke="#3b5ea6" stroke-width="2"/>
+<text x="397.0" y="124" font-size="22" font-weight="bold" text-anchor="middle">Консультативное заключение кардиолога</text>
+<text x="60" y="170" font-size="15">Пациент: <tspan font-weight="bold">Сейтқалиев Ержан Мұратұлы</tspan></text>
+<text x="60" y="194" font-size="15">Дата рождения: 12.03.1991 · ИИН: 910312301427</text>
+<text x="60" y="218" font-size="15">Дата исследования: 12.06.2026</text>
+<text x="60" y="260" font-size="15">Жалобы: не предъявляет.</text><text x="60" y="284" font-size="15">Анамнез: АД периодически до 135/85 мм рт. ст., гипотензивные не принимает.</text><text x="60" y="308" font-size="15">Объективно: состояние удовлетворительное. Тоны сердца ясные, ритмичные.</text><text x="60" y="332" font-size="15">АД 128/82 мм рт. ст., ЧСС 70 уд/мин.</text><text x="60" y="356" font-size="15">ЭКГ: синусовый ритм, без патологических изменений.</text><text x="60" y="380" font-size="15"></text><text x="60" y="404" font-size="15">Диагноз: Z00.0 — общий медицинский осмотр, патологии не выявлено.</text><text x="60" y="428" font-size="15">Рекомендации: контроль АД, повторный осмотр через 12 месяцев.</text><text x="60" y="452" font-size="15"></text><text x="60" y="476" font-size="15">Медицинских противопоказаний к работе не выявлено.</text>
+<text x="60" y="1033" font-size="15">Врач: Бекова Л. А.</text><line x1="420" y1="1029" x2="600" y2="1029" stroke="#999"/><text x="610" y="1033" font-size="13" fill="#777">подпись</text>
+<text x="397.0" y="1087" font-size="12" fill="#999" text-anchor="middle">Образец документа для прототипа</text>
+</svg>
